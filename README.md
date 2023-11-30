@@ -40,3 +40,21 @@ In this assignment, you will build a basic web application for managing student 
 1. In the calculateClassroomAverage.js file, create a function named calculateClassroomAverage that takes the studentData as a parameter.
 2. Use a loop to iterate through the student data and calculate the average of all student grades.
 3. Return the classroom average grade.
+
+#### Step 6: Main Application Logic
+1. In the main.js file, import the necessary functions and modules:
+- renderStudentTable and updateGrade from studentTable.js.
+- calculateClassroomAverage from calculateClassroomAverage.js.
+- studentData from studentData.js.
+2. Add an event listener for the DOMContentLoaded event to ensure the HTML elements are ready.
+3. Initialize the table with student data using the renderStudentTable function.
+4. Calculate and display the initial classroom average using the calculateClassroomAverage function.
+5. Set up an event listener to detect changes in student grades and trigger the updateGrade function.
+
+#### Step 7: Styling
+1. Apply CSS styles to make the student table and classroom average visually appealing. You can use the styles.css file for this purpose.
+
+#### Step 8: Testing and Submission
+1. Test your web application to ensure it functions correctly. Verify that you can add and modify student grades, and that the classroom average is updated accordingly.
+2. Create a README.md file that provides instructions on how to run your project.
+3. Host your project on a platform like GitHub and submit the repository link.
