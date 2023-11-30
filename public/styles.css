@@ -1,0 +1,40 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-image: url("https://images.pexels.com/photos/4050347/pexels-photo-4050347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  text-align: center;
+  margin: 50px;
+}
+
+#student-table {
+  margin-left: 25%;
+  background-color: rgb(54, 125, 248);
+  font-size: 30px;
+  padding: 10px;
+}
+
+h1 {
+  color: rgb(0, 218, 145);
+  background-color: #fffcd6;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#student-btn{
+  background-color:rgb(217, 227, 31);
+  padding: 10px;
+  font-size: 20px;
+}
+
+#class-btn{
+  background-color:rgb(41, 227, 31);
+  padding: 10px;
+  font-size: 20px;
+}
+
+h3 {
+  color: rgb(0, 40, 218);
+  background-color: #fffcd6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
